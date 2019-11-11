@@ -1,8 +1,8 @@
 {
-    "name": "7os/web-app-faqs",
+    "name": "7os/faqs-soswapp",
     "description": "7 OS Web - Project support template",
     "keywords": ["php", "javascript","7","seven","os","web","faq","questions","answers"],
-    "homepage": "https://github.com/7os/web-app-faqs",
+    "homepage": "https://github.com/7os/faqs-soswapp",
     "type": "library",
     "license": "MIT",
     "authors": [
