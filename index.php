@@ -30,7 +30,7 @@ $page_name = "faqs";
     <link rel="stylesheet" href="<?php echo \html_style("base.css"); ?>">
   </head>
   <body>
-    <?php \setup_page('faqs','base', true); ?>
+    <?php \setup_page('faqs','base', true, PRJ_HEADER_HEIGHT); ?>
     <?php include PRJ_INC_HEADER; ?>
     <section id="main-content">
       <div class="view-space">
